@@ -1,0 +1,9 @@
+ID   Q03ZA1_LEUMM            Unreviewed;        69 AA.
+ID   Q03ZI4_LEUMM            Unreviewed;        69 AA.
+ID   Q03Y68_LEUMM            Unreviewed;        56 AA.
+ID   Q03YA9_LEUMM            Unreviewed;        74 AA.
+ID   Q03ZY2_LEUMM            Unreviewed;        45 AA.
+ID   DLTC_LEUMM              Reviewed;          78 AA.
+ID   Q03ZY5_LEUMM            Unreviewed;        58 AA.
+ID   Q03XU7_LEUMM            Unreviewed;        47 AA.
+ID   Q03X72_LEUMM            Unreviewed;        76 AA.

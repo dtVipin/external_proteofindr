@@ -1,0 +1,3 @@
+#pattern name	sequence name	start	stop	strand	score	p-value	q-value	matched sequence
+6	tr|Q03ZA1|Q03ZA1_LEUMM	48	59	.	-4.6962	2e-05	0.558	MSRFDFNKRIKK
+2	tr|Q03ZY5|Q03ZY5_LEUMM	2	23	.	-5.05195	5.67e-07	0.0944	INSTAVKELNDMELESINGGWS
